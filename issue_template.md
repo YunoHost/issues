@@ -4,6 +4,8 @@ about: When creating a bug report, please use the following template to determin
 
 ---
 
+**/!\ If you have found a security issue, please follow https://yunohost.org/en/security_team **
+
 **How to post a meaningful bug report**
 1. *Read this whole template first.*
 2. *Determine if you are on the right place:*
