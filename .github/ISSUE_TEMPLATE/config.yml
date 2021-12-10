@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: YunoHost community support
+    url: https://yunohost.org/help
+    about: General support questions are welcomed on our forum or chatrooms on IRC, XMPP, and Matrix
+  - name: YunoHost security
+    url: https://yunohost.org/security_team
+    about: Please report security vulnerabilities here.
+  - name: Bug in an app
+    url: https://github.com/YunoHost-Apps
+    about: Report bugs in packaged apps in their own repository
+  - name: App request
+    url: https://yunohost.org/apps_wishlist
+    about: Checkout the apps wishlist (you can edit it!)
