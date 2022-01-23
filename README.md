@@ -1,7 +1,7 @@
 # Issues
 This is the general issue tracker for the YunoHost project
 
-**:warning: If you have found a security issue, refer to our [securiy team](https://yunohost.org/security_team).**
+**:warning: If you have found a security issue, refer to our [security team](https://yunohost.org/security_team).**
 
 Please read carefully the issue template and the following guide.
 
