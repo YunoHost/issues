@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report unwanted behaviour of YunoHost's webadmin, CLI, features...
+about: Report unwanted behaviour of YunoHost's webadmin, CLI, features... (but not apps!)
 title: ''
 labels: ":space_invader: bug"
 assignees: ''
@@ -11,6 +11,7 @@ assignees: ''
 
 <!-- A clear and concise description of what the bug is. -->
 <!-- You may add more labels to the issue to help us categorize it. -->
+<!-- Please report bugs in apps in their own repository in the YunoHost-Apps organization. -->
 
 ### Context
 
