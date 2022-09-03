@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for YunoHost
+about: Suggest an idea for YunoHost (but not apps!)
 title: ''
 labels: ":birthday: feature"
 assignees: ''
