@@ -1,2 +1,2 @@
 # Security Policy
-See https://yunohost.org/en/security_team
+See https://doc.yunohost.org/community/security_team
