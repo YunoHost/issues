@@ -10,7 +10,6 @@ assignees: ''
 ### Describe the bug
 
 <!-- A clear and concise description of what the bug is. -->
-<!-- You may add more labels to the issue to help us categorize it. -->
 <!-- Please report bugs in apps in their own repository in the YunoHost-Apps organization. -->
 
 ### Context
